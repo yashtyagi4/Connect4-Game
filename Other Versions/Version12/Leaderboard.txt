@@ -1,0 +1,4 @@
+		LEADERBOARD
+Name       Wins  Losses   Draws   Moves   Total Points
+Yash Tyagi   1        0      0      9          380
+App          0        2      0      7          380

@@ -1,0 +1,4 @@
+		LEADERBOARD
+Name       Wins  Losses   Draws   Moves   Total Points
+Yash         2        0      0      9          760
+Apoo         0        2      0      7            0
