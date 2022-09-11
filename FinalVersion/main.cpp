@@ -2,7 +2,7 @@
  * File:         main.cpp
  * Author:       Yash Tyagi
  * Created :     Dec 6th, 2020, 9:12 AM
- * Purpose:      Connect 4 Game
+ * Purpose:      Connecto Game
  * Description:  The purpose of this version is to implement exception
  *               handling and utilize it along with the other OOP concepts
  *               implemented in the previous version. This version also includes
