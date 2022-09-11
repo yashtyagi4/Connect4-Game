@@ -1,8 +1,8 @@
-<img width="1011" alt="Screen Shot 2022-09-06 at 5 52 01 PM" src="https://user-images.githubusercontent.com/85970478/188753995-4d272307-e6f0-42d3-be6d-6fc1f789e744.png">
+![Screen Shot 2022-09-11 at 12 35 36 AM](https://user-images.githubusercontent.com/85970478/189514019-5c122650-66a2-4d07-98bd-9ceb312fe97c.png)
 
 #
 
-Connect 4 is a game in which two players drop discs into a 7 X 6 board. The first player to get four consecutively (either vertically, horizontally, or diagonally) wins. It is a game of strategy. Two players are up against each other to see who can be the first to form a line of 4 of one’s own token.
+Connecto is a game in which two players drop discs into a 7 X 6 board. The first player to get four consecutively (either vertically, horizontally, or diagonally) wins. It is a game of strategy. Two players are up against each other to see who can be the first to form a line of 4 of one’s own token.
 
 **Written in C++ with compiler G++ (MinGW.org GCC-6.3.0-1)**
 
